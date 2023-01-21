@@ -34,11 +34,8 @@ Mohamed Ahmed Hassan
 
 sample:
 
-
 https://user-images.githubusercontent.com/97471166/213868750-4d871624-cf4b-42d5-aef4-689e8d9aef86.mp4
 
-
-https://user-images.githubusercontent.com/97471166/192149191-b0bb9966-8ddf-453c-be53-a344d513796f.mp4
 
 
 
